@@ -15,4 +15,3 @@ Pymaceuticals ...
 &nbsp;&nbsp;&nbsp;&nbsp;Jupyter Notebook (code) :&nbsp;&nbsp;matplotlib-challenge/Pymaceuticals/Pymaceuticals_Jupyter_Notebook.ipynb  
 &nbsp;&nbsp;&nbsp;&nbsp;Resources (data) :        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;matplotlib-challenge/Pymaceuticals/data/Mouse_metadata.csv  
 &nbsp;&nbsp;&nbsp;&nbsp;Resources (data) :        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;matplotlib-challenge/Pymaceuticals/data/Study_results.csv  
-&nbsp;&nbsp;&nbsp;&nbsp;Analysis (report) :       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;matplotlib-challenge/Pymaceuticals/Pymaceuticals_Analysis.docx  
